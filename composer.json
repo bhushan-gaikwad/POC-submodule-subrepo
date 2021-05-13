@@ -1,0 +1,10 @@
+{
+    "name": "bhushan/poc-submodule-subrepo",
+    "authors": [
+        {
+            "name": "Bhushan",
+            "email": "bhushan.gaikwad@gelato.com"
+        }
+    ],
+    "require": {}
+}
