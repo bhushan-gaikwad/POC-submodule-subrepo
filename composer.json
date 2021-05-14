@@ -1,10 +1,12 @@
 {
-    "name": "bhushan/poc-submodule-subrepo",
-    "authors": [
-        {
-            "name": "Bhushan",
-            "email": "bhushan.gaikwad@gelato.com"
-        }
-    ],
-    "require": {}
+  "name": "bhushan/poc-submodule-subrepo",
+  "authors": [
+    {
+      "name": "Bhushan",
+      "email": "bhushan.gaikwad@gelato.com"
+    }
+  ],
+  "require": {},
+  "minimum-stability": "dev",
+  "version": "1.0.1"
 }
